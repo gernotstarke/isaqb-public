@@ -1,0 +1,9 @@
+main:
+  - title: "Training"
+    url: /training/
+  - title: "Nutrition"
+    url: /nutrition/
+  - title: "Research"
+    url: /research
+  - title: "About"
+    url: /about/
