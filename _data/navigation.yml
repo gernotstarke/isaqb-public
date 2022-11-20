@@ -1,9 +1,11 @@
 main:
-  - title: "Training"
-    url: /training/
-  - title: "Nutrition"
-    url: /nutrition/
-  - title: "Research"
-    url: /research
+  - title: "Glossary"
+    url: /glossary/
+  - title: "Foundation"
+    url: /foundation/
+  - title: "Sample-Exam"
+    url: /mock/
+  - title: "Advanced"
+    url: /advanced
   - title: "About"
     url: /about/
